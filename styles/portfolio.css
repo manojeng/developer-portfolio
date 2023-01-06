@@ -135,3 +135,114 @@ text-align: center;
     color: #474747;
 
 }
+
+/* What I do styles*/
+.what-i-do{
+    margin-top: 130px;
+    display: block;
+    align-items: center;
+}
+.skill-section-description{
+    align-items: center;
+    width: 909px;
+    height: 90px;
+    text-align: center;
+    margin: 50px;
+
+}
+
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+.skill{
+    width: 257px;
+    height: 277px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.09);
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px;
+}
+
+.skill > img{
+width: 44px;
+height: 44px;
+margin-bottom: 28px;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+
+.skill-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    justify-content: center;
+}
+
+/* Summary section style */
+
+.summary-title{
+    margin-bottom: 113px;
+    color: #181818;
+    font-weight: 700px;
+}
+
+.summary-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.summary-section-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.summary-sub-container{
+    width: 80%;
+
+}
+.course-title{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.university-name{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.course-details{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+.divider-line{
+    width: 90%;
+    height: 0px;
+    left: 230px;
+    top: 2809px;
+    border: 1px solid #D1D1D1;
+    margin-bottom: 30px;
+}
+
+.btn-cv{
+margin: auto;
+}
